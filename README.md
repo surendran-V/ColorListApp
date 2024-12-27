@@ -72,7 +72,7 @@ com.example.colorlistapp/
 ### Local Setup
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/surendran-V/ColorListApp
 ```
 
 2. Open project in Android Studio
@@ -133,15 +133,3 @@ git clone [repository-url]
 - **Use Cases:** Handle business rules
 - **Repository Pattern:** Manages data sources
 - **MVVM Architecture:** Separates concerns
-
-## Contributing
-
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Open pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
